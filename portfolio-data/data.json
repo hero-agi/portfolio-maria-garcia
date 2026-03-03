@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "language": "es",
+    "siteTitle": "Maria Garcia | Portfolio",
+    "description": "Data Science"
+  },
+  "clients": [
+    {
+      "logo": "",
+      "name": "Digito"
+    },
+    {
+      "logo": "https://drive.google.com/file/d/1VHElFIPGWor090TotnyQ1nP8G-LEN1Ll/view?usp=drive_link",
+      "name": "Digito"
+    }
+  ],
+  "contact": {
+    "email": "angelocastilloperz@gmail.com",
+    "github": "",
+    "medium": "Clas",
+    "twitter": null,
+    "linkedin": ""
+  },
+  "profile": {
+    "name": "Maria Garcia",
+    "photo": "assets/img/profile-img.jpg",
+    "stats": {
+      "tools": 1,
+      "years": 2,
+      "projects": 2,
+      "companies": 1
+    },
+    "title": "Data Science",
+    "badges": [
+      "Azure",
+      "AI Agents",
+      "MongoDB"
+    ],
+    "description": "Iei",
+    "availableText": "Disponible para proyectos"
+  },
+  "projects": [
+    {
+      "id": "proj-1772509910545",
+      "tags": [
+        "PowerBI"
+      ],
+      "badge": "Power BI",
+      "image": "",
+      "title": "Dash",
+      "result": "dwda",
+      "demoUrl": null,
+      "problem": "dasd",
+      "category": "powerbi",
+      "solution": "dsadasd",
+      "githubUrl": null
+    }
+  ],
+  "experience": [
+    {
+      "logo": "",
+      "badge": "dsdad",
+      "links": [],
+      "roles": [
+        {
+          "title": "Data",
+          "period": "2025-2026",
+          "skills": [
+            "Python"
+          ],
+          "isCurrent": false,
+          "description": "sdawd"
+        }
+      ],
+      "period": "2022-Presente",
+      "company": "dsad",
+      "impacts": [],
+      "location": "Lima",
+      "isCurrent": true,
+      "companyKey": "dsad"
+    }
+  ]
+}
